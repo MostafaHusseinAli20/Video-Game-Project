@@ -1,0 +1,1875 @@
+{
+  "allGames": [
+    {
+      "id": "cf52",
+      "slug": "vampire-the-masquerade-bloodlines-2",
+      "name": "Vampire The Masquerade",
+      "background_image": "https://media.rawg.io/media/games/fb5/fb5e0fdb1f6bb0e8b5da5d08bb83a5fc.jpg",
+      "rating": 3.94,
+      "released": "2023-12-31",
+      "updated": "2023-09-15T11:12:07",
+      "clip": {
+        "clips": {
+          "320": "https://media.rawg.io/media/stories-320/c66/c6692dc6b3d737d6e483b8ce64390b96.mp4",
+          "640": "https://media.rawg.io/media/stories-640/80b/80bbb6049233cf75621004e9be886715.mp4",
+          "full": "https://media.rawg.io/media/stories/b3b/b3b872ae7c4e95cfd6d999b2bda384e8.mp4"
+        },
+        "preview": "https://media.rawg.io/media/stories-previews/30f/30f79646f4ddaa689a5f682042d5526a.jpg"
+      },
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/fb5/fb5e0fdb1f6bb0e8b5da5d08bb83a5fc.jpg",
+        "https://media.rawg.io/media/screenshots/831/8314575622c6ac8de538e890ec6a2aab.jpg",
+        "https://media.rawg.io/media/screenshots/eb7/eb7d75e25be2c76d6e1bd454f2071aad.jpg",
+        "https://media.rawg.io/media/screenshots/b71/b71ee1cd39f5e8685900b47980d715a1_I3dtqc6.jpg",
+        "https://media.rawg.io/media/screenshots/291/29185669bd2fdf8c0ec10fcf10da3063.jpg",
+        "https://media.rawg.io/media/screenshots/7ba/7ba2d1b2998ae2c76c3ef3509ea8e104.jpg",
+        "https://media.rawg.io/media/screenshots/234/234c1ba4292f69ffc3c988dab739fa91.jpg"
+      ],
+      "store": [
+        {
+          "name": "GOG",
+          "domain": "gog.com"
+        },
+        {
+          "name": "Epic Games",
+          "domain": "epicgames.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Atmospheric",
+        "Great Soundtrack",
+        "RPG",
+        "Story Rich",
+        "Open World",
+        "First-Person",
+        "Horror",
+        "Gore",
+        "Violent",
+        "Vampire"
+      ]
+    },
+    {
+      "id": "a90c",
+      "slug": "baldurs-gate-3",
+      "name": "Baldurs Gate 3",
+      "background_image": "https://media.rawg.io/media/games/699/69907ecf13f172e9e144069769c3be73.jpg",
+      "rating": 4.51,
+      "released": "2023-08-03",
+      "updated": "2023-09-14T17:04:53",
+      "clip": {
+        "clips": {
+          "320": "https://media.rawg.io/media/stories-320/463/46339706a9d1742d9199543dd5a3f3db.mp4",
+          "640": "https://media.rawg.io/media/stories-640/ca9/ca9fa39e2ef1136846717640664d48f8.mp4",
+          "full": "https://media.rawg.io/media/stories/42b/42bbe9cf398463bb5925e804bf79d5a1.mp4"
+        },
+        "preview": "https://media.rawg.io/media/stories-previews/874/874f631bdd9e56d2d4e49c9cd0029e51.jpg"
+      },
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/699/69907ecf13f172e9e144069769c3be73.jpg",
+        "https://media.rawg.io/media/screenshots/a67/a676cdec0eadc42a133ac49e7f2e1aac.jpg",
+        "https://media.rawg.io/media/screenshots/705/705846f6583a6da009a0ae7fcdece36d.jpg",
+        "https://media.rawg.io/media/screenshots/d29/d29b1d2726d69432d2b4180a79b9ee9d.jpg",
+        "https://media.rawg.io/media/screenshots/ed1/ed19ec8ce43f9dd3553df4a6d9301f61.jpg",
+        "https://media.rawg.io/media/screenshots/6c8/6c8983d658a4a24dc8eb9d2f88f1dabf.jpg",
+        "https://media.rawg.io/media/screenshots/92c/92cbe16a795afbc9d9837ed9eae4f22b.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "GOG",
+          "domain": "gog.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Steam Cloud",
+        "RPG",
+        "Co-op",
+        "Online Co-Op",
+        "Fantasy",
+        "Split Screen",
+        "Online multiplayer",
+        "Local Co-Op",
+        "Local Multiplayer",
+        "role-playing",
+        "Cross-Platform Multiplayer",
+        "Captions available",
+        "Character Customization",
+        "Isometric",
+        "Magic",
+        "Steam Trading Cards",
+        "CRPG",
+        "Party-Based RPG",
+        "Role Playing Game",
+        "Dungeons & Dragons"
+      ]
+    },
+    {
+      "id": "dc7b",
+      "slug": "stalker-2",
+      "name": "Stalker 2",
+      "background_image": "https://media.rawg.io/media/games/3e8/3e81585ecda204d4f4b80a041b069adb.jpg",
+      "rating": 4.09,
+      "released": "2023-12-31",
+      "updated": "2023-09-14T19:28:36",
+      "clip": {
+        "clips": {
+          "320": "https://media.rawg.io/media/stories-320/771/771a8dc6c1a6ad44cb45ce88f7bad80a.mp4",
+          "640": "https://media.rawg.io/media/stories-640/905/905c69af118fde927180ecf5b391c4f9.mp4",
+          "full": "https://media.rawg.io/media/stories/0fa/0fa2332e05f993a96e0bc3904f1c7fe0.mp4"
+        },
+        "preview": "https://media.rawg.io/media/stories-previews/c30/c302b625a172157d5b3ca528a4a88e84.jpg"
+      },
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/3e8/3e81585ecda204d4f4b80a041b069adb.jpg",
+        "https://media.rawg.io/media/screenshots/782/7824700bd21e40cf2a0bebaeb8114dc3.jpg",
+        "https://media.rawg.io/media/screenshots/9dd/9dd9b0c112201cbdf6828f01c0334cfa.jpg",
+        "https://media.rawg.io/media/screenshots/7e2/7e2eb2f0dab20622fbbbeeae39dc8978.jpg",
+        "https://media.rawg.io/media/screenshots/17d/17da49bd8779122e0d7f24696f5b4db9.jpg",
+        "https://media.rawg.io/media/screenshots/1f7/1f7ee9a93cf8b9be74a06d4b2fc2fcbf.jpg",
+        "https://media.rawg.io/media/screenshots/2b8/2b8c4fdfb2d411645c77f6a1beccec69.jpg"
+      ],
+      "store": [
+        {
+          "name": "GOG",
+          "domain": "gog.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        },
+        {
+          "name": "Epic Games",
+          "domain": "epicgames.com"
+        },
+        {
+          "name": "Xbox Store",
+          "domain": "microsoft.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Shooter",
+        "Adventure",
+        "RPG"
+      ],
+      "tags": [
+        "Atmospheric",
+        "RPG",
+        "Story Rich",
+        "Open World",
+        "First-Person",
+        "Sci-fi",
+        "FPS",
+        "Exploration",
+        "Survival",
+        "Moddable",
+        "Post-apocalyptic",
+        "Choices Matter",
+        "Cinematic",
+        "Realistic",
+        "Multiple Endings",
+        "Lore-Rich",
+        "Immersive Sim",
+        "Nonlinear",
+        "choices matter "
+      ]
+    },
+    {
+      "id": "dc61",
+      "slug": "starfield",
+      "name": "Starfield",
+      "background_image": "https://media.rawg.io/media/games/ba8/ba82c971336adfd290e4c0eab6504fcf.jpg",
+      "rating": 3.59,
+      "released": "2023-09-06",
+      "updated": "2023-09-15T06:02:43",
+      "clip": {
+        "clips": {
+          "320": "https://media.rawg.io/media/stories-320/64e/64ee587a1a1e95494f29d9293f8302d9.mp4",
+          "640": "https://media.rawg.io/media/stories-640/574/574cfd5955d88f16127c6e2bd3f79d4c.mp4",
+          "full": "https://media.rawg.io/media/stories/0eb/0eb283a46ac19f6a30e37dc2d9cf4643.mp4"
+        },
+        "preview": "https://media.rawg.io/media/stories-previews/8e8/8e8810230436d48b5d8365f16b5e9daa.jpg"
+      },
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/ba8/ba82c971336adfd290e4c0eab6504fcf.jpg",
+        "https://media.rawg.io/media/screenshots/f7d/f7d990724dd553484e527b4096025a65.jpg",
+        "https://media.rawg.io/media/screenshots/0ad/0adfb93f5621bd549b8813b6b4c6e623.jpg",
+        "https://media.rawg.io/media/screenshots/f74/f7431a20a8bb390b813ea751d758ed07.jpg",
+        "https://media.rawg.io/media/screenshots/7bc/7bc2c5288b78693eb9eaa0a06a8361e9.jpg",
+        "https://media.rawg.io/media/screenshots/85f/85fee5a7b12edcbe8352b2d1676296ac.jpg",
+        "https://media.rawg.io/media/screenshots/eb6/eb61692a22bef1e16d43ee1c49f31814.jpg"
+      ],
+      "store": [
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Steam Cloud",
+        "Atmospheric",
+        "RPG",
+        "Story Rich",
+        "Open World",
+        "First-Person",
+        "Third Person",
+        "Sci-fi",
+        "Partial Controller Support",
+        "Exploration",
+        "Action RPG",
+        "Action-Adventure",
+        "Space",
+        "Moddable",
+        "Character Customization",
+        "Cinematic",
+        "Realistic",
+        "Space Sim"
+      ]
+    },
+    {
+      "id": "cfff",
+      "slug": "hollow-knight-silksong",
+      "name": "Hollow Knight",
+      "background_image": "https://media.rawg.io/media/games/27c/27cd8b7dead05a870f8a514a9a1915ad.jpg",
+      "rating": 4.51,
+      "released": "2023-12-31",
+      "updated": "2023-08-27T15:44:41",
+      "clip": {
+        "clips": {
+          "320": "https://media.rawg.io/media/stories-320/9ba/9ba1677bb7d159ec53071cdd4795b185.mp4",
+          "640": "https://media.rawg.io/media/stories-640/a31/a3184b28f9920fc2e69094fdcac75ef7.mp4",
+          "full": "https://media.rawg.io/media/stories/5a3/5a37a3db90c2d375b642852efdb14568.mp4"
+        },
+        "preview": "https://media.rawg.io/media/stories-previews/94c/94ca06fd940ac5c2c315eee9ff6ed12d.jpg"
+      },
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/27c/27cd8b7dead05a870f8a514a9a1915ad.jpg",
+        "https://media.rawg.io/media/screenshots/9f9/9f9a0edd1478facde5209abe4000c015.jpg",
+        "https://media.rawg.io/media/screenshots/3f3/3f35cf2130d1d8763ee45dc77ce843b2.jpg",
+        "https://media.rawg.io/media/screenshots/7e1/7e160928dc38f72937951f56e73a1988.jpg",
+        "https://media.rawg.io/media/screenshots/b96/b9656b6e62746c588ea12287fc1c0aed.jpg",
+        "https://media.rawg.io/media/screenshots/f2a/f2a7d8d3fc80ca60f36f89419d2547e6.jpg",
+        "https://media.rawg.io/media/screenshots/404/4048fa94127cec67d8464aaa13f6d588.jpg"
+      ],
+      "store": [
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        },
+        {
+          "name": "GOG",
+          "domain": "gog.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Platformer"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Full controller support",
+        "Great Soundtrack",
+        "Story Rich",
+        "2D",
+        "Difficult",
+        "Exploration",
+        "Action-Adventure",
+        "Side Scroller",
+        "Dark Fantasy",
+        "Metroidvania",
+        "Hand-drawn",
+        "Gothic"
+      ]
+    },
+    {
+      "id": "d112",
+      "slug": "final-fantasy-xvi",
+      "name": "Final Fantasy Xvi",
+      "background_image": "https://media.rawg.io/media/games/22e/22e68bb62b3013283972cecf98ed51dc.jpg",
+      "rating": 4.21,
+      "released": "2023-06-22",
+      "updated": "2023-09-14T13:35:04",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/22e/22e68bb62b3013283972cecf98ed51dc.jpg",
+        "https://media.rawg.io/media/screenshots/bc2/bc255e09533797521b2ff1e364113a0b.jpg",
+        "https://media.rawg.io/media/screenshots/af2/af2426fc46c870b4fe3dfb0242f2f6cc_SDr2Q4j.jpg",
+        "https://media.rawg.io/media/screenshots/20c/20caffc877526070d84dda7b79e6340c.jpg",
+        "https://media.rawg.io/media/screenshots/934/93425eb39f7347f229a8ef4a6bc4cefc.jpg",
+        "https://media.rawg.io/media/screenshots/ae8/ae88639668c1124b2b75eed1e8c44209.jpg",
+        "https://media.rawg.io/media/screenshots/5bb/5bbe932d2fa06cc12825b006361bd4e5.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
+      "tags": [
+        "Violent",
+        "exclusive",
+        "3rd-Person Perspective"
+      ]
+    },
+    {
+      "id": "8299",
+      "slug": "prince-of-persia-the-sands-of-time-remake",
+      "name": "Prince of Persia",
+      "background_image": "https://media.rawg.io/media/games/b92/b92b55aeab9ed1777104f71f4b22a613.jpg",
+      "rating": 3.49,
+      "released": "2024-12-31",
+      "updated": "2023-09-08T15:34:48",
+      "clip": {
+        "clips": {
+          "320": "https://media.rawg.io/media/stories-320/4ef/4ef76a507fa0825b800346f00b21c29b.mp4",
+          "640": "https://media.rawg.io/media/stories-640/6e7/6e7d3b3665e1a4321fdbbcf561dcbb0e.mp4",
+          "full": "https://media.rawg.io/media/stories/505/505f099a90456e803ecc63d862fa0f06.mp4"
+        },
+        "preview": "https://media.rawg.io/media/stories-previews/d98/d987722fb051f0fa1cc2f64c682dd380.jpg"
+      },
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/b92/b92b55aeab9ed1777104f71f4b22a613.jpg",
+        "https://media.rawg.io/media/screenshots/27e/27eda6606d4c7a763ab0352319f6c601.jpg",
+        "https://media.rawg.io/media/screenshots/a73/a731e879c475428c35d5a13b9512c742.jpg",
+        "https://media.rawg.io/media/screenshots/797/7976cd46c437ec13f7f8e70c1f1dbee8.jpg",
+        "https://media.rawg.io/media/screenshots/2f2/2f27106ce265ab8bec91f44329a8f826.jpg",
+        "https://media.rawg.io/media/screenshots/997/997d1f79363dd5e440bff6a6c8d4b187.jpg",
+        "https://media.rawg.io/media/screenshots/0be/0be2d0046b8e5a09a21a8691be54f5ae.jpg"
+      ],
+      "store": [
+        {
+          "name": "Xbox Store",
+          "domain": "microsoft.com"
+        },
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "Epic Games",
+          "domain": "epicgames.com"
+        }
+      ],
+      "genres": [
+        "Action"
+      ],
+      "tags": [
+        "Classic",
+        "Remake"
+      ]
+    },
+    {
+      "id": "2dea",
+      "slug": "oxenfree-ii-lost-signals",
+      "name": "Oxenfree ii Lost Signals",
+      "background_image": "https://media.rawg.io/media/games/55e/55e23d1452e7f7f0295c4fe2a4d298b5.jpg",
+      "rating": 3.68,
+      "released": "2023-07-12",
+      "updated": "2023-09-15T06:18:30",
+      "clip": {
+        "clips": {
+          "320": "https://media.rawg.io/media/stories-320/e1f/e1fac0a32182c2ceb8449a909d5e2b4e.mp4",
+          "640": "https://media.rawg.io/media/stories-640/254/254956acc6ca29fb9c2c77bf47d6c399.mp4",
+          "full": "https://media.rawg.io/media/stories/18b/18be9e031b692b951ab1deac32656190.mp4"
+        },
+        "preview": "https://media.rawg.io/media/stories-previews/9bc/9bcc3f88e6a75753d0682eb1601aee5d.jpg"
+      },
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/55e/55e23d1452e7f7f0295c4fe2a4d298b5.jpg",
+        "https://media.rawg.io/media/screenshots/cda/cdae429e5a584da120c31a04cd36402d.jpg",
+        "https://media.rawg.io/media/screenshots/72b/72b86c19db5aef75ec15ef779c3fe31f.jpg",
+        "https://media.rawg.io/media/screenshots/c5c/c5c1bcef5e77520940398c0183f52472.jpg",
+        "https://media.rawg.io/media/screenshots/4ab/4abc61d8e05ccd9b260bf028e5415306.jpg",
+        "https://media.rawg.io/media/screenshots/a84/a846167668a4ad3eb70def090e82113a.jpg"
+      ],
+      "store": [
+        {
+          "name": "App Store",
+          "domain": "apps.apple.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        },
+        {
+          "name": "Nintendo Store",
+          "domain": "nintendo.com"
+        }
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Story Rich",
+        "Horror",
+        "Exploration",
+        "Female Protagonist",
+        "Point & Click",
+        "Mystery",
+        "Choices Matter",
+        "Side Scroller",
+        "Walking Simulator",
+        "Multiple Endings",
+        "Visual Novel",
+        "Choose Your Own Adventure",
+        "Interactive Fiction",
+        "Supernatural",
+        "Thriller",
+        "Протагонистка",
+        "Narrative",
+        "Dark Comedy"
+      ]
+    },
+    {
+      "id": "fe22",
+      "slug": "marvels-spider-man-2",
+      "name": "Marvel Spider Man 2",
+      "background_image": "https://media.rawg.io/media/games/a8a/a8a74f30ce82dbde168176a4aa04ac58.jpg",
+      "rating": 4.5,
+      "released": "2023-10-20",
+      "updated": "2023-09-08T08:07:54",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/a8a/a8a74f30ce82dbde168176a4aa04ac58.jpg",
+        "https://media.rawg.io/media/screenshots/89b/89b077deb2a3ce38e071fdb5caae69c0.jpg",
+        "https://media.rawg.io/media/screenshots/c71/c718076de2326247d29ea5ed32e67c6c.jpg",
+        "https://media.rawg.io/media/screenshots/74e/74e29808dd23446aae1ab61bb5a429fc.jpg",
+        "https://media.rawg.io/media/screenshots/ea0/ea082dba5c51799204e0c5e55134ecc3.jpg",
+        "https://media.rawg.io/media/screenshots/7d1/7d112ad515211a01639d22eef5093c47.jpg",
+        "https://media.rawg.io/media/screenshots/6ff/6ff530af3788338486569ce723d503bd.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        }
+      ],
+      "genres": [
+        "Action"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Comic Book",
+        "marvel",
+        "spider-man"
+      ]
+    },
+    {
+      "id": "a649",
+      "slug": "sea-of-stars-2",
+      "name": "Sea of Stars 2",
+      "background_image": "https://media.rawg.io/media/games/1de/1de8ff69ed31d7a47d4f7770f23f20b8.jpg",
+      "rating": 4.33,
+      "released": "2023-08-28",
+      "updated": "2023-09-15T10:56:05",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/1de/1de8ff69ed31d7a47d4f7770f23f20b8.jpg",
+        "https://media.rawg.io/media/screenshots/db6/db625f085ce03f211ea27cf7b7b24b5b.jpg",
+        "https://media.rawg.io/media/screenshots/05f/05f533b6bdeaaf9479b0a21971811450.jpg",
+        "https://media.rawg.io/media/screenshots/76f/76f6f56823ddf31b51e657c543926ccb.jpg",
+        "https://media.rawg.io/media/screenshots/c7b/c7bce81364c819f60151bf7876a871d8.jpg",
+        "https://media.rawg.io/media/screenshots/b10/b108330146c4324be6fbdf4a26a9bfc9.jpg",
+        "https://media.rawg.io/media/screenshots/d33/d332c693ac6cf8cbdf4e12122b3aa8bb.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        },
+        {
+          "name": "Nintendo Store",
+          "domain": "nintendo.com"
+        }
+      ],
+      "genres": [
+        "RPG"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Full controller support",
+        "RPG",
+        "Story Rich",
+        "Pixel Graphics",
+        "Turn-Based Combat"
+      ]
+    },
+    {
+      "id": "28b0",
+      "slug": "alan-wake-2",
+      "name": "Alan Wake 2",
+      "background_image": "https://media.rawg.io/media/games/5b9/5b963d7633cd640fa2dbc4069d1c6377.jpg",
+      "rating": 4,
+      "released": "2023-10-27",
+      "updated": "2023-08-26T06:21:01",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/5b9/5b963d7633cd640fa2dbc4069d1c6377.jpg",
+        "https://media.rawg.io/media/screenshots/6b8/6b8fe21f070edc4c9184062f9dc714e3.jpg",
+        "https://media.rawg.io/media/screenshots/cae/caefb537267fb10f3fe0413f16c733ed.jpg",
+        "https://media.rawg.io/media/screenshots/3e0/3e08d7746359b512714b510a1ee30163_WTYwMbp.jpg",
+        "https://media.rawg.io/media/screenshots/24c/24ce827e6ddae7317ced5e2d98e11d5e.jpg",
+        "https://media.rawg.io/media/screenshots/df2/df20dab4bfbfd611aa496116cca810bc.jpg",
+        "https://media.rawg.io/media/screenshots/1eb/1eb720bb7d9eea3f352fbf881666aaeb.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "Epic Games",
+          "domain": "epicgames.com"
+        }
+      ],
+      "genres": [
+        "Action"
+      ],
+      "tags": []
+    },
+    {
+      "id": "52ef",
+      "slug": "dave-the-diver",
+      "name": "Dave The Diver",
+      "background_image": "https://media.rawg.io/media/games/1ee/1eec43616e3ff00a674124d746926b23.jpg",
+      "rating": 4.52,
+      "released": "2023-06-28",
+      "updated": "2023-09-09T23:15:23",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/1ee/1eec43616e3ff00a674124d746926b23.jpg",
+        "https://media.rawg.io/media/screenshots/ea2/ea2ba5801d2908fa37f8f5361354b70a.jpg",
+        "https://media.rawg.io/media/screenshots/034/034104be340001cadf8383f2139589e9.jpg",
+        "https://media.rawg.io/media/screenshots/4b5/4b5b8231dfb8c978724b7c8ebf179d7f.jpg",
+        "https://media.rawg.io/media/screenshots/5f1/5f1f5c8f92a9e34ebee4b6a2cb9b4acb.jpg",
+        "https://media.rawg.io/media/screenshots/b94/b94fc536f3402a1ce8284071daa58976.jpg",
+        "https://media.rawg.io/media/screenshots/95c/95c1ce76ca78441c39c815a4175997a9.jpg"
+      ],
+      "store": [
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "RPG",
+        "Story Rich",
+        "Exploration",
+        "Pixel Graphics",
+        "Action-Adventure",
+        "Early Access",
+        "combat",
+        "Management",
+        "2.5D",
+        "Underwater"
+      ]
+    },
+    {
+      "id": "997e",
+      "slug": "little-devil-inside",
+      "name": "Little Devil Inside",
+      "background_image": "https://media.rawg.io/media/games/63b/63bd91ad9f2b896cdb067ad3a5542c9e.jpg",
+      "rating": 4.1,
+      "released": "2023-12-31",
+      "updated": "2023-07-08T12:53:22",
+      "clip": {
+        "clips": {
+          "320": "https://media.rawg.io/media/stories-320/d34/d34c607ff1efa8b46ce4008142f03861.mp4",
+          "640": "https://media.rawg.io/media/stories-640/56b/56b84b8b2d1a79d465cd56676d238d35.mp4",
+          "full": "https://media.rawg.io/media/stories/c4a/c4aef149acc6c47dc3b1958b6ea76ab5.mp4"
+        },
+        "preview": "https://media.rawg.io/media/stories-previews/3d6/3d681e8b65eed8b635d18e41cf3bd37d.jpg"
+      },
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/63b/63bd91ad9f2b896cdb067ad3a5542c9e.jpg",
+        "https://media.rawg.io/media/screenshots/e47/e4790abb668c975452af5e57f3d1ab9b_pVbQS2F.jpg",
+        "https://media.rawg.io/media/screenshots/ade/ade68b627d5c80ff3c2d2ffee0c59879.jpg",
+        "https://media.rawg.io/media/screenshots/7c1/7c1b3870b401cbac0463eccf171c306a_3sDsiWP.jpg",
+        "https://media.rawg.io/media/screenshots/a95/a958849125bdb7d7aa04d1098e37cac3.jpg",
+        "https://media.rawg.io/media/screenshots/10c/10c58cd83d36ec6c9e343643bcfa1850.jpg",
+        "https://media.rawg.io/media/screenshots/2b0/2b075400a899f07000145f3e3005be94_yX0buKv.jpg"
+      ],
+      "store": [],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
+      "tags": [
+        "Survival",
+        "exclusive",
+        "challenge"
+      ]
+    },
+    {
+      "id": "d7ea",
+      "slug": "armored-core-vi",
+      "name": "Armored Core Vi",
+      "background_image": "https://media.rawg.io/media/games/c97/c97aba78a97038867d4b32a81fe48567.jpg",
+      "rating": 3.96,
+      "released": "2023-08-25",
+      "updated": "2023-09-14T11:13:30",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/c97/c97aba78a97038867d4b32a81fe48567.jpg",
+        "https://media.rawg.io/media/screenshots/270/27073d9c14f06f8a37f56c2cce36cdc7.jpg",
+        "https://media.rawg.io/media/screenshots/a0a/a0a387a199dd4f068c41b9ff9b67eaad.jpg",
+        "https://media.rawg.io/media/screenshots/07a/07af4811a071a6cc0a47984e67189915.jpg",
+        "https://media.rawg.io/media/screenshots/7f4/7f40bcd98bc68af1c891e0b535e4ad37.jpg",
+        "https://media.rawg.io/media/screenshots/6c3/6c3b1709ee0e6d107fa71c0201e3c4a5_zVaxnHT.jpg",
+        "https://media.rawg.io/media/screenshots/5e9/5e94d6e326cf5f80d805822c0bb8b774.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Multiplayer",
+        "Steam Cloud",
+        "Atmospheric",
+        "Co-op",
+        "cooperative",
+        "Third Person",
+        "Sci-fi",
+        "Action-Adventure",
+        "Post-apocalyptic",
+        "Character Customization",
+        "Futuristic",
+        "Fast-Paced",
+        "Military",
+        "combat",
+        "3D",
+        "Robots",
+        "Soundtrack",
+        "Souls-like",
+        "Mechs",
+        "Vehicular Combat",
+        "Постапокалипсис",
+        "Un jugador",
+        "Logros de Steam",
+        "Cromos de Steam",
+        "Multijugador",
+        "JcJ",
+        "JcJ en línea",
+        "Compat. parcial con mando"
+      ]
+    },
+    {
+      "id": "f4f2",
+      "slug": "assassins-creed-mirage",
+      "name": "Assassins Creed Mirage",
+      "background_image": "https://media.rawg.io/media/games/fbd/fbd0128013b7965904be571e75fb30c0.jpg",
+      "rating": 3.62,
+      "released": "2023-10-05",
+      "updated": "2023-08-14T17:26:46",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/fbd/fbd0128013b7965904be571e75fb30c0.jpg",
+        "https://media.rawg.io/media/screenshots/214/2144e4a308f6df915a0ce6b9c6b0536a.jpg",
+        "https://media.rawg.io/media/screenshots/a8d/a8d22377af727e1404c96022b1333095.jpg",
+        "https://media.rawg.io/media/screenshots/935/9357652d65a3d714426a22ef44e0f0da.jpg",
+        "https://media.rawg.io/media/screenshots/2b0/2b0a877f30e8113f0e99b41ee3781d56.jpg",
+        "https://media.rawg.io/media/screenshots/6ce/6cecbbd2a905d94f8f64dd932a3e32d7.jpg",
+        "https://media.rawg.io/media/screenshots/59d/59d2671c96228757abe81f38749918ff.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "Epic Games",
+          "domain": "epicgames.com"
+        }
+      ],
+      "genres": [
+        "Action"
+      ],
+      "tags": []
+    },
+    {
+      "id": "f89f",
+      "slug": "remnant-2",
+      "name": "Remnant 2",
+      "background_image": "https://media.rawg.io/media/games/347/3478db948d4f25d40da7c22c0fd1039c.jpg",
+      "rating": 3.79,
+      "released": "2023-07-21",
+      "updated": "2023-09-15T10:23:02",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/347/3478db948d4f25d40da7c22c0fd1039c.jpg",
+        "https://media.rawg.io/media/screenshots/021/0210417934458141019d3da70518af09.jpg",
+        "https://media.rawg.io/media/screenshots/3b9/3b9be1dfd56308c5b059978e2612c978.jpg",
+        "https://media.rawg.io/media/screenshots/9aa/9aaaa4a8a6c6c993ee1beb5e9a0fbb39.jpg",
+        "https://media.rawg.io/media/screenshots/08b/08b1c3f33fcf48a19db2745d953ed238.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "Epic Games",
+          "domain": "epicgames.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Shooter",
+        "Arcade"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a1fb",
+      "slug": "replaced",
+      "name": "Replaced",
+      "background_image": "https://media.rawg.io/media/games/041/041e04184322bc859d617b790d8bfab9.jpg",
+      "rating": 3.33,
+      "released": "2023-12-31",
+      "updated": "2023-08-26T09:06:27",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/041/041e04184322bc859d617b790d8bfab9.jpg",
+        "https://media.rawg.io/media/screenshots/6a6/6a6a3d193fac79cfc8093441f9ab28dd.jpg",
+        "https://media.rawg.io/media/screenshots/d9c/d9c3839d3992d0370ac4860a1a3da816.jpg",
+        "https://media.rawg.io/media/screenshots/806/806f480327cbda64fd668a22299450ea.jpg",
+        "https://media.rawg.io/media/screenshots/c0e/c0e109d1bf9d7f235ebdba3b65935834.jpg"
+      ],
+      "store": [
+        {
+          "name": "GOG",
+          "domain": "gog.com"
+        },
+        {
+          "name": "Epic Games",
+          "domain": "epicgames.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Platformer"
+      ],
+      "tags": [
+        "Sci-fi",
+        "Pixel Graphics",
+        "1980s",
+        "retro-futuristic",
+        "action-platformer"
+      ]
+    },
+    {
+      "id": "5921",
+      "slug": "blasphemous-2",
+      "name": "Blasphemous 2",
+      "background_image": "https://media.rawg.io/media/games/73b/73bcfec00beec38a3d3527db4f9b8c53.jpg",
+      "rating": 4.31,
+      "released": "2023-08-23",
+      "updated": "2023-09-13T20:18:03",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/73b/73bcfec00beec38a3d3527db4f9b8c53.jpg",
+        "https://media.rawg.io/media/screenshots/569/569546be856c3d4238dfccce857c7b94.jpg",
+        "https://media.rawg.io/media/screenshots/b5f/b5f0f921e124030fd3ab96d36fbf4210.jpg",
+        "https://media.rawg.io/media/screenshots/ff3/ff38c9dc809852035c1458fb34779826.jpg",
+        "https://media.rawg.io/media/screenshots/189/18947ab0b098207f77815c327ab5002c.jpg",
+        "https://media.rawg.io/media/screenshots/57e/57e6ad9110da0244a67ce700960adf1e.jpg",
+        "https://media.rawg.io/media/screenshots/dcf/dcf3e7b6ea2c96d8f7178ef1b00b91ea.jpg"
+      ],
+      "store": [
+        {
+          "name": "GOG",
+          "domain": "gog.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        },
+        {
+          "name": "Xbox Store",
+          "domain": "microsoft.com"
+        },
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "Nintendo Store",
+          "domain": "nintendo.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "Platformer"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Story Rich",
+        "2D",
+        "Horror",
+        "Difficult",
+        "Action RPG",
+        "Pixel Graphics",
+        "Action-Adventure",
+        "Hack and Slash",
+        "Side Scroller",
+        "combat",
+        "Story",
+        "Multiple Endings",
+        "Metroidvania",
+        "Destruction",
+        "Lore-Rich",
+        "Souls-like",
+        "weapons",
+        "secrets",
+        "death",
+        "2D Platformer",
+        "2D-платформер",
+        "Nonlinear",
+        "journey",
+        "Traps",
+        "combos",
+        "dlc",
+        "attack",
+        "Unforgiving",
+        "child",
+        "enemies",
+        "skills"
+      ]
+    },
+    {
+      "id": "5e98",
+      "slug": "lies-of-p",
+      "name": "Lies of P",
+      "background_image": "https://media.rawg.io/media/games/cc3/cc3231b0e4ef970590eeb2ce23f60ca0.jpg",
+      "rating": 3.44,
+      "released": "2023-09-19",
+      "updated": "2023-09-11T07:26:59",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/cc3/cc3231b0e4ef970590eeb2ce23f60ca0.jpg",
+        "https://media.rawg.io/media/screenshots/333/3332c7015ad0c3042f10a128ab3b4f0a.jpg",
+        "https://media.rawg.io/media/screenshots/e54/e5441972762d7c97428c8ec8e1c57ab9.jpg",
+        "https://media.rawg.io/media/screenshots/caf/caf8b31c71fd30eeb53504b550fd6dbf.jpg",
+        "https://media.rawg.io/media/screenshots/6bf/6bf590df242e884b7d519f9fbe81e8b3.jpg",
+        "https://media.rawg.io/media/screenshots/f57/f5788075e970b835ff1b20f73ebf2ca4.jpg"
+      ],
+      "store": [
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Full controller support",
+        "Atmospheric",
+        "RPG",
+        "Story Rich",
+        "Open World",
+        "Third Person",
+        "Exploration",
+        "Action RPG",
+        "Dark",
+        "Replay Value",
+        "Dark Fantasy",
+        "3D",
+        "Souls-like"
+      ]
+    },
+    {
+      "id": "afb6",
+      "slug": "v-i-e-w-f-i-n-d-e-r",
+      "name": "Viewfinder",
+      "background_image": "https://media.rawg.io/media/games/bee/beeefcd4af46510aec135d098d03bf72.jpg",
+      "rating": 4.47,
+      "released": "2023-07-18",
+      "updated": "2023-09-11T16:50:11",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/bee/beeefcd4af46510aec135d098d03bf72.jpg",
+        "https://media.rawg.io/media/screenshots/602/60259827f072564ea12ba07aea978d41.jpg",
+        "https://media.rawg.io/media/screenshots/dc4/dc424a923a58eb86048d0f7f40fdd0c9.jpg",
+        "https://media.rawg.io/media/screenshots/090/090e301c6597deebf22ddcd92d73d8e2.jpg",
+        "https://media.rawg.io/media/screenshots/d86/d862b9d0c2cd7863396e924745b35d07.jpg",
+        "https://media.rawg.io/media/screenshots/20b/20bdb2f365c7e3650984a13b25cbfd0c.jpeg"
+      ],
+      "store": [
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Atmospheric",
+        "Story Rich",
+        "First-Person",
+        "Exploration",
+        "Action-Adventure",
+        "Retro",
+        "Physics",
+        "Colorful",
+        "Surreal",
+        "Dark Humor",
+        "Stylized",
+        "3D Platformer",
+        "Narration",
+        "Psychological",
+        "Abstract",
+        "Puzzle Platformer"
+      ]
+    },
+    {
+      "id": "b226",
+      "slug": "suicide-squad-kill-the-justice-league",
+      "name": "Suicide Squad Kill the Justice League",
+      "background_image": "https://media.rawg.io/media/games/eac/eac17db790a988f47e5700d176497694.jpg",
+      "rating": 2.35,
+      "released": "2024-02-02",
+      "updated": "2023-08-24T09:05:25",
+      "clip": {
+        "clips": {
+          "320": "https://media.rawg.io/media/stories-320/407/407259383ac90cbf75373b5bada1cc71.mp4",
+          "640": "https://media.rawg.io/media/stories-640/057/0575fbd610c3121d54e66825b5edbd24.mp4",
+          "full": "https://media.rawg.io/media/stories/e7a/e7a20bd8487dd692d6965ed1b5ea131e.mp4"
+        },
+        "preview": "https://media.rawg.io/media/stories-previews/4ec/4ec4195175daa0fe8acc737c5b8e7c7d.jpg"
+      },
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/eac/eac17db790a988f47e5700d176497694.jpg",
+        "https://media.rawg.io/media/screenshots/433/43329e11379a4634300e76a5d3f7d30b.jpg",
+        "https://media.rawg.io/media/screenshots/899/89923bcc668b1647a4abb140273343a7.jpg",
+        "https://media.rawg.io/media/screenshots/c3a/c3adfcdc49f4f0b112b0d576c3d9ca9d.jpg",
+        "https://media.rawg.io/media/screenshots/f94/f94e4cc9351ec21ec6de0bdf949c28a2.jpg",
+        "https://media.rawg.io/media/screenshots/e72/e72271d9de2cdeadf5e5f1b35d7df5c3.jpg"
+      ],
+      "store": [
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action"
+      ],
+      "tags": []
+    },
+    {
+      "id": "1070",
+      "slug": "the-expanse-a-telltale-series",
+      "name": "The Expanse A Telltale Series",
+      "background_image": "https://media.rawg.io/media/games/70a/70aefcec2ce50c815534611b0cc91c60.jpg",
+      "rating": 3.8,
+      "released": "2023-07-27",
+      "updated": "2023-09-03T22:06:21",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/70a/70aefcec2ce50c815534611b0cc91c60.jpg",
+        "https://media.rawg.io/media/screenshots/7b4/7b4032da4a28fa3a3ed8d83b590b8db8.jpg",
+        "https://media.rawg.io/media/screenshots/db7/db76f9a96f1442d49949da8391d9f8ff_zxzttnI.jpg",
+        "https://media.rawg.io/media/screenshots/5c4/5c45d3212e052b22c27bc5bec1096434.jpg",
+        "https://media.rawg.io/media/screenshots/a68/a68c428d735338b8a77d775c76931fa4.jpg",
+        "https://media.rawg.io/media/screenshots/9b9/9b93d15efec802b253169d7c8294a317.jpg",
+        "https://media.rawg.io/media/screenshots/d15/d1554d4e71a5b36830850f4ddc10cfd5.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "Epic Games",
+          "domain": "epicgames.com"
+        }
+      ],
+      "genres": [
+        "Adventure",
+        "Platformer"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a25e",
+      "slug": "black-myth-wu-kong",
+      "name": "Black Myth Wu Kong",
+      "background_image": "https://media.rawg.io/media/games/779/77988e89f7862afeede524420aa251b0.jpg",
+      "rating": 0,
+      "released": "2024-08-31",
+      "updated": "2023-08-27T11:44:14",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/779/77988e89f7862afeede524420aa251b0.jpg",
+        "https://media.rawg.io/media/screenshots/207/20782c3c3da967ca955dfa0e942d0acc.jpg",
+        "https://media.rawg.io/media/screenshots/749/74924dc8952b98f7a0ca7d77210b4578_cEVEMbe.jpg",
+        "https://media.rawg.io/media/screenshots/245/2450ea407bc2934863020c170717cc9c.jpg",
+        "https://media.rawg.io/media/screenshots/4e0/4e0b5ba1ef94973b14cede218159b82c.jpg",
+        "https://media.rawg.io/media/screenshots/166/166590539e11fd3349f57005135fd6ec.jpg",
+        "https://media.rawg.io/media/screenshots/f29/f29eace60587e49e7b6f91875c7fadae.jpg"
+      ],
+      "store": [
+        {
+          "name": "Epic Games",
+          "domain": "epicgames.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action"
+      ],
+      "tags": []
+    },
+    {
+      "id": "70e9",
+      "slug": "fort-solis",
+      "name": "Fort Solis",
+      "background_image": "https://media.rawg.io/media/games/7b1/7b16f5a2219005df202aa34ac442dc4c.jpg",
+      "rating": 2.53,
+      "released": "2023-08-22",
+      "updated": "2023-09-06T17:42:28",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/7b1/7b16f5a2219005df202aa34ac442dc4c.jpg",
+        "https://media.rawg.io/media/screenshots/682/682195caadb57b023fdc958261e62230.jpg",
+        "https://media.rawg.io/media/screenshots/c41/c41500800865914f84f26ad9989d65c4.jpg",
+        "https://media.rawg.io/media/screenshots/f19/f1997b35e2b4b8944b551c2d2f360fab.jpg",
+        "https://media.rawg.io/media/screenshots/4a5/4a56ecfffb464194331546aa0b2280ab.jpg",
+        "https://media.rawg.io/media/screenshots/f47/f4720b061656a4921c8cde4b74b014fe.jpg"
+      ],
+      "store": [
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Atmospheric",
+        "Story Rich",
+        "Third Person",
+        "Sci-fi",
+        "Exploration",
+        "Space",
+        "Cinematic",
+        "Walking Simulator",
+        "Steam Trading Cards",
+        "Linear",
+        "Drama",
+        "Narration",
+        "Quick-Time Events",
+        "Interactive Fiction",
+        "Thriller",
+        "Mars",
+        "Narrative",
+        "immersive",
+        "qte"
+      ]
+    },
+    {
+      "id": "30c9",
+      "slug": "skull-bones",
+      "name": "Skull Bones",
+      "background_image": "https://media.rawg.io/media/games/097/097a3191f8d9bd75068e89f50f1b021c.jpg",
+      "rating": 3.3,
+      "released": "2023-12-31",
+      "updated": "2023-08-27T11:44:21",
+      "clip": {
+        "clips": {
+          "320": "https://media.rawg.io/media/stories-320/12a/12af38c33f96a883c3bdfc3a4e5b67b8.mp4",
+          "640": "https://media.rawg.io/media/stories-640/410/410ceefe3a66e149132c1c613c4ae294.mp4",
+          "full": "https://media.rawg.io/media/stories/9ed/9ed261ec2562753a94fa9fbdc42d627f.mp4"
+        },
+        "preview": "https://media.rawg.io/media/stories-previews/ed0/ed0325736e3bee55614e5ef0b1b5f103.jpg"
+      },
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/097/097a3191f8d9bd75068e89f50f1b021c.jpg",
+        "https://media.rawg.io/media/screenshots/7af/7af2c959c2500a1d179a586a6232c8dd.jpg",
+        "https://media.rawg.io/media/screenshots/e9a/e9a0682075a4f25494a8ad0406769bbc.jpg",
+        "https://media.rawg.io/media/screenshots/a8c/a8cb4bcb5b6a79f602ff1b6a9e1dc8ca.jpg",
+        "https://media.rawg.io/media/screenshots/010/010e955329a21f119c5e97fb1feccde4.jpg",
+        "https://media.rawg.io/media/screenshots/bdf/bdf42d2db7c40744da3d62407e16fdcb.jpg",
+        "https://media.rawg.io/media/screenshots/520/520418f739353e0f33d542003fde6190.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "Epic Games",
+          "domain": "epicgames.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Massively Multiplayer"
+      ],
+      "tags": [
+        "Multiplayer",
+        "Full controller support",
+        "Open World",
+        "cooperative",
+        "Online multiplayer",
+        "Pirates"
+      ]
+    },
+    {
+      "id": "3aa0",
+      "slug": "atlas-fallen",
+      "name": "Atlas Fallen",
+      "background_image": "https://media.rawg.io/media/games/94c/94cc56251973600816cf50fb3323d6c8.jpg",
+      "rating": 2.27,
+      "released": "2023-08-09",
+      "updated": "2023-09-08T15:35:09",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/94c/94cc56251973600816cf50fb3323d6c8.jpg",
+        "https://media.rawg.io/media/screenshots/594/594d98966816094f1801d5089550203a.jpg",
+        "https://media.rawg.io/media/screenshots/a60/a600e553ef743142524563d984bc6352.jpg",
+        "https://media.rawg.io/media/screenshots/03c/03c64106715a078b2a6d4b41dc6de0d3.jpg",
+        "https://media.rawg.io/media/screenshots/219/2194078d588b05dd50b1a54ae3e5e92e.jpg",
+        "https://media.rawg.io/media/screenshots/23e/23e25e00ff0fb8a8e1e93fbdc15f43c7.jpg",
+        "https://media.rawg.io/media/screenshots/26e/26e1283911b1a35e524e06e1c7238664.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "GOG",
+          "domain": "gog.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Multiplayer",
+        "Steam Cloud",
+        "RPG",
+        "Co-op",
+        "Story Rich",
+        "Partial Controller Support",
+        "Online Co-Op",
+        "Fantasy",
+        "Exploration",
+        "Female Protagonist",
+        "Action RPG",
+        "Action-Adventure",
+        "Mystery",
+        "Cinematic",
+        "combat",
+        "Magic",
+        "3D",
+        "Steam Trading Cards",
+        "Loot",
+        "Narration",
+        "Demons",
+        "Supernatural",
+        "Протагонистка"
+      ]
+    },
+    {
+      "id": "7c45",
+      "slug": "avatar-frontiers-of-pandora",
+      "name": "Avatar Frontiers of Pandora",
+      "background_image": "https://media.rawg.io/media/games/983/9837c2e9a13a92c55c47327dfc22a81f.jpeg",
+      "rating": 0,
+      "released": "2023-12-07",
+      "updated": "2023-09-08T15:35:08",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/983/9837c2e9a13a92c55c47327dfc22a81f.jpeg",
+        "https://media.rawg.io/media/screenshots/e79/e79b32462dcd1efa695f55c044701433.jpg",
+        "https://media.rawg.io/media/screenshots/178/178a97b5bb8949c07bc1f9af83b38bf7.jpg",
+        "https://media.rawg.io/media/screenshots/2e0/2e038844d38e05ee5b6ccfe46da83a6b.jpg",
+        "https://media.rawg.io/media/screenshots/acd/acd86cd5db28ca8d09c4dc2fc8d587c6.jpg",
+        "https://media.rawg.io/media/screenshots/bc5/bc5c425bf90589619139a88f7a044678.jpg",
+        "https://media.rawg.io/media/screenshots/baf/baf9be70d6b3bc16733c1fbefdd71e8a.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        }
+      ],
+      "genres": [
+        "Action"
+      ],
+      "tags": []
+    },
+    {
+      "id": "0e73",
+      "slug": "the-bookwalker",
+      "name": "The Bookwalker",
+      "background_image": "https://media.rawg.io/media/games/4ae/4ae187d7ab7227c74f4da6f079cac8e3.jpg",
+      "rating": 4.14,
+      "released": "2023-06-22",
+      "updated": "2023-09-11T14:29:14",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/4ae/4ae187d7ab7227c74f4da6f079cac8e3.jpg",
+        "https://media.rawg.io/media/screenshots/3aa/3aa57760fe5398a82a1930b600228b58.jpg",
+        "https://media.rawg.io/media/screenshots/76a/76ad41c6fa16df802afb131ba80fd454.jpg",
+        "https://media.rawg.io/media/screenshots/a52/a521d36853b4bddf38ba593640194c66.jpg",
+        "https://media.rawg.io/media/screenshots/61a/61a8b441ff397a5e5aecc6e2f4c831a2.jpg",
+        "https://media.rawg.io/media/screenshots/b65/b653e1a44477afa0dedba1fc39227048.jpg",
+        "https://media.rawg.io/media/screenshots/169/16955d3325f76f5fdf77df89ba7f62ef.jpg"
+      ],
+      "store": [
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        },
+        {
+          "name": "GOG",
+          "domain": "gog.com"
+        }
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Atmospheric",
+        "Story Rich",
+        "First-Person",
+        "Exploration",
+        "Point & Click",
+        "Mystery",
+        "Dark Fantasy",
+        "Isometric",
+        "Medieval",
+        "combat",
+        "Crime",
+        "Dystopian",
+        "Detective",
+        "Surreal",
+        "puzzles",
+        "Drama",
+        "Turn-Based Tactics",
+        "Narration",
+        "Lore-Rich",
+        "Noir",
+        "Thriller",
+        "explore",
+        "prison",
+        "obstacles",
+        "spaceship",
+        "travel",
+        "book"
+      ]
+    },
+    {
+      "id": "eb52",
+      "slug": "cyberpunk-2077-phantom-liberty",
+      "name": "Cyberpunk 2077",
+      "background_image": "https://media.rawg.io/media/games/062/06285b425e61623530c5430f20e5d222.jpg",
+      "rating": 4.33,
+      "released": "2023-09-26",
+      "updated": "2023-09-10T20:27:51",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/062/06285b425e61623530c5430f20e5d222.jpg",
+        "https://media.rawg.io/media/screenshots/80f/80fae78e5c12be23386e1f68786c8b4b.jpg",
+        "https://media.rawg.io/media/screenshots/078/078cfcc88982199f6e1bc6de24279593.jpg",
+        "https://media.rawg.io/media/screenshots/da5/da5c912366c9ca2ca282f55ecd3b33c2.jpg",
+        "https://media.rawg.io/media/screenshots/fc1/fc10d7ec161911a3bb3409cd0599db05.jpg",
+        "https://media.rawg.io/media/screenshots/1de/1def44eac50c83de5d3a0dffbe52b5f9.jpg",
+        "https://media.rawg.io/media/screenshots/6cd/6cd9d62ddb5771993d67a565f51c648d.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Shooter"
+      ],
+      "tags": [
+        "Sci-fi",
+        "Exploration",
+        "Violent",
+        "Futuristic",
+        "Cyberpunk"
+      ]
+    },
+    {
+      "id": "8222",
+      "slug": "pikmin-4",
+      "name": "Pikmin 4",
+      "background_image": "https://media.rawg.io/media/games/274/2740b879e28df2ac3cdbc929a553863d.jpg",
+      "rating": 4.06,
+      "released": "2023-07-21",
+      "updated": "2023-09-09T17:58:41",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/274/2740b879e28df2ac3cdbc929a553863d.jpg",
+        "https://media.rawg.io/media/screenshots/72d/72dc596a3541cbd63e9a09cb26e59462.jpg",
+        "https://media.rawg.io/media/screenshots/b89/b8968016a2d15b5bbb288862ae283352.jpg",
+        "https://media.rawg.io/media/screenshots/351/351111c988552c63fe13cb65407ecf59.jpg",
+        "https://media.rawg.io/media/screenshots/9f9/9f9d9f39b29543e55c95c9dd9dd73f19.jpg"
+      ],
+      "store": [
+        {
+          "name": "Nintendo Store",
+          "domain": "nintendo.com"
+        }
+      ],
+      "genres": [
+        "Strategy"
+      ],
+      "tags": []
+    },
+    {
+      "id": "df54",
+      "slug": "warhammer-40000-space-marine-ii",
+      "name": "Warhammer",
+      "background_image": "https://media.rawg.io/media/games/950/950f4eae6dc907d7f534d5dcce454487.jpg",
+      "rating": 0,
+      "released": "2023-12-31",
+      "updated": "2023-08-27T11:45:04",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/950/950f4eae6dc907d7f534d5dcce454487.jpg",
+        "https://media.rawg.io/media/screenshots/5ec/5ecc620494b3e44c83f4a1deee70e009.jpg",
+        "https://media.rawg.io/media/screenshots/f1d/f1d60382fcda11eada6a26d25e2a0c71.jpg",
+        "https://media.rawg.io/media/screenshots/2b6/2b65736d01814af8c6410e6835cc189f.jpg",
+        "https://media.rawg.io/media/screenshots/1b9/1b98a9d904390be5a42fd14be166e4b0.jpg",
+        "https://media.rawg.io/media/screenshots/f8f/f8f2535851dd920a98d3680e066e7cfe.jpg",
+        "https://media.rawg.io/media/screenshots/ee5/ee5d7ccc55fe18ffb2fb5e24a02323af.jpg"
+      ],
+      "store": [
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action"
+      ],
+      "tags": []
+    },
+    {
+      "id": "52ad",
+      "slug": "aliens-dark-descent",
+      "name": "Aliens Dark Descent",
+      "background_image": "https://media.rawg.io/media/games/826/8260752e19cc614a56a0a682f050e548.jpg",
+      "rating": 4,
+      "released": "2023-06-19",
+      "updated": "2023-08-20T15:48:47",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/826/8260752e19cc614a56a0a682f050e548.jpg",
+        "https://media.rawg.io/media/screenshots/330/33098a97531ce7b0121010678a233dc0.jpg",
+        "https://media.rawg.io/media/screenshots/c42/c42f511fcfa4f725a81fac9ec0e23062.jpg",
+        "https://media.rawg.io/media/screenshots/af9/af9c6409cf2119dceef197deb9e705b9.jpg",
+        "https://media.rawg.io/media/screenshots/d2e/d2e8e68626bebd4ab1dfef61a8bf0d50.jpg",
+        "https://media.rawg.io/media/screenshots/cab/cab564c6bee29becc25b2b5341f883f5.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Strategy"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Sci-fi",
+        "Horror",
+        "Survival",
+        "Violent",
+        "Stealth",
+        "Tactical",
+        "Action-Adventure",
+        "Dark",
+        "Space",
+        "Aliens",
+        "RTS",
+        "combat",
+        "3D",
+        "Top-Down",
+        "Real Time Tactics"
+      ]
+    },
+    {
+      "id": "664e",
+      "slug": "witchfire",
+      "name": "Witchfire",
+      "background_image": "https://media.rawg.io/media/screenshots/491/491a21bc212e75a687b0b7a97e2251d8.jpg",
+      "rating": 0,
+      "released": "2023-09-20",
+      "updated": "2023-08-27T11:45:12",
+      "short_screenshots": [
+        "https://media.rawg.io/media/screenshots/491/491a21bc212e75a687b0b7a97e2251d8.jpg",
+        "https://media.rawg.io/media/screenshots/85a/85ab38daf827493a357cc9298d66e4b8.jpg",
+        "https://media.rawg.io/media/screenshots/80d/80dfb410116793a9e319895fca156d62.jpg",
+        "https://media.rawg.io/media/screenshots/8a5/8a5449f9b32fdedc4014103a53b2942f.jpg",
+        "https://media.rawg.io/media/screenshots/362/3629df1d1c616e6bdfaeb9f34baa953c.jpg",
+        "https://media.rawg.io/media/screenshots/aaf/aaf4c5537f7b87a252120ae07d92e4cd.jpg",
+        "https://media.rawg.io/media/screenshots/466/4662b2676f46cbadbbf16c88ce2215e3.jpg"
+      ],
+      "store": [
+        {
+          "name": "Epic Games",
+          "domain": "epicgames.com"
+        }
+      ],
+      "genres": [
+        "Shooter"
+      ],
+      "tags": [
+        "FPS",
+        "Dark Fantasy",
+        "Magic",
+        "Roguelite",
+        "grimdark",
+        "witchcraft"
+      ]
+    },
+    {
+      "id": "5eb6",
+      "slug": "exoprimal",
+      "name": "Exoprimal",
+      "background_image": "https://media.rawg.io/media/games/b3d/b3da1cdfe373f5f84148a24464c8ce29.jpg",
+      "rating": 2.5,
+      "released": "2023-07-14",
+      "updated": "2023-09-05T11:16:22",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/b3d/b3da1cdfe373f5f84148a24464c8ce29.jpg",
+        "https://media.rawg.io/media/screenshots/3ac/3acc8e3116fd7b4a88ed827a0cba0ccb.jpg",
+        "https://media.rawg.io/media/screenshots/a5c/a5c1549c2180c063cb910a4d98c38f8a.jpg",
+        "https://media.rawg.io/media/screenshots/4ac/4ac9f7f976c079eb30e11945577e3532_TyEFrUe.jpg",
+        "https://media.rawg.io/media/screenshots/84f/84f2dfb87501e082599730cf195ceed5_9sIFgRb.jpg",
+        "https://media.rawg.io/media/screenshots/83d/83d74804f3704c77aecd8490822b3857.jpg",
+        "https://media.rawg.io/media/screenshots/76a/76a6ec1f527eab664ca730aeceb78ee8.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Shooter"
+      ],
+      "tags": [
+        "Steam Achievements",
+        "Multiplayer",
+        "Full controller support",
+        "Steam Cloud",
+        "Co-op",
+        "Third Person",
+        "Sci-fi",
+        "FPS",
+        "Online Co-Op",
+        "Survival",
+        "Tactical",
+        "Third-Person Shooter",
+        "PvP",
+        "Character Customization",
+        "Futuristic",
+        "Team-Based",
+        "3D",
+        "Online PvP",
+        "Steam Trading Cards",
+        "Destruction",
+        "PvE",
+        "Mechs",
+        "Dinosaurs"
+      ]
+    },
+    {
+      "id": "4a7b",
+      "slug": "the-lords-of-the-fallen",
+      "name": "The Lords of The Fallen",
+      "background_image": "https://media.rawg.io/media/games/f84/f848442557f1316bf89a18e760b69d12.jpg",
+      "rating": 0,
+      "released": "2023-10-13",
+      "updated": "2023-09-08T15:34:58",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/f84/f848442557f1316bf89a18e760b69d12.jpg",
+        "https://media.rawg.io/media/screenshots/9b8/9b86053233018aa55a92c7ba1d598621.jpg",
+        "https://media.rawg.io/media/screenshots/d05/d057390034f600065fb2195c146bdaa4.jpg",
+        "https://media.rawg.io/media/screenshots/f68/f6809c649c33b42b6f8b1f96c31a78e0.jpg",
+        "https://media.rawg.io/media/screenshots/8bc/8bca62352fc45ead2e00233b094a10dd.jpg",
+        "https://media.rawg.io/media/screenshots/eba/ebacaf893d4b6e23054ed12686e7d71a.jpg",
+        "https://media.rawg.io/media/screenshots/e95/e9533b021b48f2296a6adc92ea7cd23b.jpg"
+      ],
+      "store": [
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "RPG"
+      ],
+      "tags": []
+    },
+    {
+      "id": "a938",
+      "slug": "shadow-gambit-the-cursed-crew",
+      "name": "Shadow Gambit The Cursed Crew",
+      "background_image": "https://media.rawg.io/media/games/e63/e63debd47c79933a6814fbc88b1198c3.jpg",
+      "rating": 0,
+      "released": "2023-08-17",
+      "updated": "2023-09-11T03:40:48",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/e63/e63debd47c79933a6814fbc88b1198c3.jpg",
+        "https://media.rawg.io/media/screenshots/b4f/b4f0c2fdb7a345c9afb153761305a90c.jpg",
+        "https://media.rawg.io/media/screenshots/bb8/bb890747227bf0b3c33a16dce574aef3.jpg",
+        "https://media.rawg.io/media/screenshots/3a9/3a9f7c340bc3bd01e012069f42379517.jpg",
+        "https://media.rawg.io/media/screenshots/693/693b1ac627211ea257eaa0847ce5b0ce.jpg",
+        "https://media.rawg.io/media/screenshots/7d2/7d2ae0e146a70fdf482a3460f5d8c01c.jpg",
+        "https://media.rawg.io/media/screenshots/2c2/2c21bf76c470d5858cb99751f44ca71b.jpg"
+      ],
+      "store": [
+        {
+          "name": "GOG",
+          "domain": "gog.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG",
+        "Strategy"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Atmospheric",
+        "RPG",
+        "Story Rich",
+        "Fantasy",
+        "Exploration",
+        "Stealth",
+        "Tactical",
+        "War",
+        "Character Customization",
+        "Dark Fantasy",
+        "Colorful",
+        "RTS",
+        "Magic",
+        "Real-Time with Pause",
+        "Party-Based RPG",
+        "Real Time Tactics",
+        "Tactical RPG"
+      ]
+    },
+    {
+      "id": "01c2",
+      "slug": "the-invincible",
+      "name": "The Invincible",
+      "background_image": "https://media.rawg.io/media/games/a41/a41faac69727bc7766b3b78f0acfec2f.jpg",
+      "rating": 0,
+      "released": "2023-11-06",
+      "updated": "2023-08-23T16:57:30",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/a41/a41faac69727bc7766b3b78f0acfec2f.jpg",
+        "https://media.rawg.io/media/screenshots/18d/18ddc2f47bf818f7491b1a5bf6951c4d.jpg",
+        "https://media.rawg.io/media/screenshots/538/538f4bca5b9a37057ed195afb220b6eb.jpg",
+        "https://media.rawg.io/media/screenshots/4c2/4c2fe77ccf5cfd8a0ac85dad2eeecf58.jpg",
+        "https://media.rawg.io/media/screenshots/4ed/4ed9d9340a37347dea2598c112355d06.jpg",
+        "https://media.rawg.io/media/screenshots/dfe/dfeda738c781ef51a8b0a2a9258c5d59.jpg",
+        "https://media.rawg.io/media/screenshots/e63/e63afbb61f216ccec3f455e7f54fbafe.jpg"
+      ],
+      "store": [
+        {
+          "name": "Epic Games",
+          "domain": "epicgames.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        },
+        {
+          "name": "GOG",
+          "domain": "gog.com"
+        }
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "tags": [
+        "Steam Achievements",
+        "Atmospheric",
+        "Story Rich",
+        "Exploration",
+        "Mystery",
+        "Realistic",
+        "3D",
+        "Multiple Endings",
+        "Driving",
+        "Narration",
+        "Choose Your Own Adventure",
+        "Interactive Fiction",
+        "Character Action Game",
+        "Investigation",
+        "Nonlinear",
+        "Conversation",
+        "artifical-intellegence"
+      ]
+    },
+    {
+      "id": "8e41",
+      "slug": "immortals-of-aveum",
+      "name": "Immortals of Aveum",
+      "background_image": "https://media.rawg.io/media/games/007/007d56273248aef4295bdab0a0c7d3a4.jpg",
+      "rating": 0,
+      "released": "2023-08-21",
+      "updated": "2023-09-02T10:32:36",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/007/007d56273248aef4295bdab0a0c7d3a4.jpg",
+        "https://media.rawg.io/media/screenshots/d68/d685149ea04f982d8f4d48eddf841a5c.jpg",
+        "https://media.rawg.io/media/screenshots/abf/abfd5507ec4df14ae7e18e7989067690.jpg",
+        "https://media.rawg.io/media/screenshots/9bb/9bbaea4e100325b8aad9f490e252d37a.jpg",
+        "https://media.rawg.io/media/screenshots/a8f/a8f804b74cf1672ba29d3c0fa09802e4.jpg",
+        "https://media.rawg.io/media/screenshots/77d/77d1caf1b1ab37379b6dc03dcc695b7a.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Shooter",
+        "Adventure"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Atmospheric",
+        "Story Rich",
+        "Open World",
+        "Sci-fi",
+        "FPS",
+        "Fantasy",
+        "Action-Adventure",
+        "Fast-Paced",
+        "Magic",
+        "PvE",
+        "Dragons"
+      ]
+    },
+    {
+      "id": "072a",
+      "slug": "death-stranding-2",
+      "name": "Death Stranding 2",
+      "background_image": "https://media.rawg.io/media/games/b85/b85bc300d42588af66fb516b7563f74f.jpg",
+      "rating": 0,
+      "released": "2024-12-31",
+      "updated": "2023-08-26T06:21:15",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/b85/b85bc300d42588af66fb516b7563f74f.jpg",
+        "https://media.rawg.io/media/screenshots/7a9/7a97a649fde5f258651ae5e69abf0ed0.jpg",
+        "https://media.rawg.io/media/screenshots/372/372b0916c1ce240a4406373c120abd8f.jpg",
+        "https://media.rawg.io/media/screenshots/9c4/9c4d0e73de232433f8b977c39ca65d45.jpg",
+        "https://media.rawg.io/media/screenshots/a25/a25a14bc153866bd1dc9f776426c7b5b.jpg",
+        "https://media.rawg.io/media/screenshots/8a8/8a87fa3c9a671416715d9ba29789cd7f.jpg",
+        "https://media.rawg.io/media/screenshots/901/901efd17e514cede763eeb9837a80614.jpg"
+      ],
+      "store": [],
+      "genres": [
+        "Action",
+        "Adventure"
+      ],
+      "tags": []
+    },
+    {
+      "id": "5a76",
+      "slug": "bomb-rush-cyberfunk",
+      "name": "Bomb Rush Cyberfunk",
+      "background_image": "https://media.rawg.io/media/games/ca7/ca7ca88681ad87eccd12e2acc65a2f6d.jpg",
+      "rating": 4.58,
+      "released": "2023-08-18",
+      "updated": "2023-09-12T18:17:20",
+      "short_screenshots": [
+        "https://media.rawg.io/media/games/ca7/ca7ca88681ad87eccd12e2acc65a2f6d.jpg",
+        "https://media.rawg.io/media/screenshots/d1b/d1b34773a00141a80d0e5ff424641f52.jpg",
+        "https://media.rawg.io/media/screenshots/c58/c58d8ba2034214cad497f9040f863a63.jpg",
+        "https://media.rawg.io/media/screenshots/9bb/9bb419a676fc4371894b60a97742a90b.jpg",
+        "https://media.rawg.io/media/screenshots/a70/a70902aadc941df1255f031bd5c6a751.jpg",
+        "https://media.rawg.io/media/screenshots/f9e/f9ed532cb116ba817b6dff4d8aaa7e3b.jpg",
+        "https://media.rawg.io/media/screenshots/ba8/ba862e937b57824461d1f2671e317566.jpg"
+      ],
+      "store": [
+        {
+          "name": "PlayStation Store",
+          "domain": "store.playstation.com"
+        },
+        {
+          "name": "GOG",
+          "domain": "gog.com"
+        },
+        {
+          "name": "Nintendo Store",
+          "domain": "nintendo.com"
+        },
+        {
+          "name": "Steam",
+          "domain": "store.steampowered.com"
+        }
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "tags": [
+        "Singleplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Great Soundtrack",
+        "Anime",
+        "Futuristic",
+        "Colorful",
+        "Walking Simulator",
+        "Parkour",
+        "Cyberpunk",
+        "3D",
+        "Relaxing",
+        "Linear",
+        "Stylized",
+        "3D Platformer",
+        "Cartoon",
+        "Score Attack",
+        "Transhumanism",
+        "jet"
+      ]
+    }
+  ]
+}
