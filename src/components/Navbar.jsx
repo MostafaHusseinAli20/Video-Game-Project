@@ -1,14 +1,15 @@
 import { useContext } from "react";
 import { HiMoon, HiOutlineMagnifyingGlass, HiSun } from "react-icons/hi2";
 import { ThemeContext } from "../context/ThemeContext";
-import Logo from "../assets/react.svg";
+import Logo from "../assets/Logo.svg";
 
 const Navbar = () => {
   const { theme, setTheme } = useContext(ThemeContext);
   return (
     <div className="flex items-center p-4">
       <a href="/">
-        <img src={Logo} width={60} height={60} />
+        <img src={Logo} 
+        className="text-yellow-300" width={60} height={60} />
       </a>
       <div className="flex bg-slate-200 mx-5 w-full p-2 rounded-full items-center px-2">
         <HiOutlineMagnifyingGlass />
