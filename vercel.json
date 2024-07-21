@@ -6,8 +6,9 @@
       "use": "@vercel/node"
     },
     {
-      "src": "build.sh",
-      "use": "@vercel/static-build"
+      "src": "package.json",
+      "use": "@vercel/static-build",
+      "config": { "distDir": "dist" }
     }
   ],
   "routes": [
